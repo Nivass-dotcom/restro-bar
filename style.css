@@ -2,7 +2,7 @@
     flex-wrap: wrap;
 }
 .cont{
-    background-image: url(images/background.jpg);  
+    background-image: url(background.jpg);  
     background-size: cover;
     width: 476px;
     height: 538px;
@@ -32,7 +32,7 @@
     text-align: inherit;
 }
 .res{
-    background-image: url(images/restrobar.jpg);
+    background-image: url(restrobar.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -81,7 +81,7 @@
     
 }
 .breawery{
-    background-image: url(images/breawery.jpg);
+    background-image: url(breawery.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
